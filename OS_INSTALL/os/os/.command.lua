@@ -1,0 +1,5 @@
+term.clear()
+term.setCursorPos(1,1)
+print("Welcome to the A.R.G.U.S. command prompt.")
+print("To return to main menu, use the 'back' command")
+print("----------------------------------------------")
