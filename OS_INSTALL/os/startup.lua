@@ -1,6 +1,6 @@
 term.clear()
 term.setCursorPos(1,1)
-print("A.R.G.U.S. V3\nCodename C.O.R.N.")
+print("A.R.G.U.S. V3")
 print("Loading...")
 term.setCursorPos(1,5)
 sleep(1)
