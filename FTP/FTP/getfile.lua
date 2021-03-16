@@ -15,6 +15,6 @@ while true do
         f.close()
         print("File "..msg2.." received.")
         sleep(3)
-        os.reboot()
+        shell.run("../menu.lua")
     end
 end
