@@ -1,6 +1,6 @@
 if fs.exists("disk") == true then
     shell.run("cd disk")
-    shell.run("openp/github get Artin-13/ArgusOS/legacy-cc/FTP/startup.lua startup.lua")
+    shell.run("openp/github get Artin-13/ArgusOS/legacy-cc/FTP/startup.lua startup")
     shell.run("openp/github get Artin-13/ArgusOS/legacy-cc/FTP/install.lua install.lua")
     shell.run("openp/github get Artin-13/ArgusOS/legacy-cc/FTP/eject.lua eject.lua")
     shell.run("mkdir FTP")
